@@ -12,6 +12,6 @@
   
 # Architecture
 
-![cattura](https://cloud.githubusercontent.com/assets/15092726/10698334/b507e0d8-79b0-11e5-94cf-fc7610b08aa9.PNG)  ![cattura2](https://cloud.githubusercontent.com/assets/15092726/10698555/d9783944-79b1-11e5-911a-af5d4e53c856.PNG)
+![cattura](https://cloud.githubusercontent.com/assets/15092726/10698832/4f0ca220-79b3-11e5-8e6f-9d6a43392f7f.PNG) ![cattura2](https://cloud.githubusercontent.com/assets/15092726/10698555/d9783944-79b1-11e5-911a-af5d4e53c856.PNG)
 ![cattura3](https://cloud.githubusercontent.com/assets/15092726/10698752/f5af4098-79b2-11e5-9146-90b1cba8011e.PNG)
 
